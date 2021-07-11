@@ -1,0 +1,11 @@
+ //import Boostrap Framework
+ @import "../vendors/bootstrap-5.0.0/scss/bootstrap";
+
+
+
+//import Font-awesome Library
+$fa-font-path: "../fonts/fontawesome-5.15.3";
+@import "../vendors/fontawesome-5.15.3/scss/fontawesome";
+@import "../vendors/fontawesome-5.15.3/scss/solid.scss";
+@import "../vendors/fontawesome-5.15.3/scss/brands.scss";
+@import "../vendors/fontawesome-5.15.3/scss/regular.scss";
